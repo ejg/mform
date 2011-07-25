@@ -1,0 +1,59 @@
+.row {
+	clear: both;
+	padding-top: 2px;
+	margin: 10px 0;
+	overflow:hidden;
+	}
+.row label {
+	clear: both;
+	float: left;
+	width: 5em;
+	margin-top: 2px;
+	}
+.row input, .row select, .row textarea {
+	float: left;
+	width: 400px;
+	margin: 0 0 0 10px ;
+	text-align: left;
+	} 
+.row textarea {
+	width: 400px;
+	height: 150px;
+	}
+.button {
+	clear: both;
+	padding-top: 2px;
+	margin-top: 10px;
+	}
+.button input{
+	width: 80px;
+	margin: 0 0 0 70px;
+	}
+.captcha img {
+	margin: 0 20px 0 70px;
+	float:left;
+	display:inline;
+	}
+.cap_row {
+	float:left;
+	margin-bottom: 15px;
+	}
+.cap_row label {
+	display: block;
+	}
+.cbrow {
+	width: 12em;
+	clear:both;
+	}
+.cbrow label {
+	margin-bottom: 10px;
+	float:right;
+	text-align:left;
+	width: 10em;
+	}
+.cbrow input {
+	float:left;
+	}
+.rrow {
+	margin-top: 10px;
+	}
